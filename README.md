@@ -522,10 +522,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 📧 Email: support@yourproject.com
-- 💬 Discord: [Join our community](https://discord.gg/yourserver)
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/x4a-ai-agent/issues)
-- 📖 Docs: [Documentation](https://docs.yourproject.com)
+- 📧 Email: x402@x4a.app
+
 
 ## 🗺️ Roadmap
 
@@ -540,9 +538,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Yield farming automation
 - [ ] Governance token integration
 - [ ] Mobile SDK
-
----
-
-**Built with ❤️ by the X4A team**
 
 *Empowering AI agents with autonomous payment capabilities*
